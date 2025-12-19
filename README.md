@@ -40,8 +40,6 @@ Feel free to explore my projects and share suggestions or ideas!
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="SQL" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Tableau" height="30" width="40"
-     src="https://cdn.simpleicons.org/tableau"/>
   <img alt="JavaScript" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img alt="HTML5" height="30" width="40"
