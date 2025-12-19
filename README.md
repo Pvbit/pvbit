@@ -35,31 +35,21 @@ Feel free to explore my projects and share suggestions or ideas!
   </a>
 </div>
 
-<div style="display: inline_block"><br>
+<p align="left">
+  <img alt="Python" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="SQL" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img alt="Tableau" height="30" width="40"
+       src="https://cdn.simpleicons.org/tableau" />
+  <img alt="JavaScript" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="HTML5" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="CSS3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+</p>
 
-  <!-- Data & Analytics -->
-  <img align="center" alt="Python" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img align="center" alt="SQL" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-  <img align="center" alt="Tableau" height="30" width="40"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg">
-
-  <!-- Web (apoio técnico) -->
-  <img align="center" alt="JavaScript" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-  <img align="center" alt="HTML5" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-  <img align="center" alt="CSS3" height="30" width="40"
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-</div>
-
- <br>
  
   ### Pra mais conteúdo me segue nas redes abaixo!
  
