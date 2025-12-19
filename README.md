@@ -37,7 +37,7 @@ Feel free to explore my projects and share suggestions or ideas!
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  [![My Skills](https://skillicons.dev/icons?i=css,js,nodejs,figma,react,ts,jest,express,&theme=light)](https://skillicons.dev)
+  <[![My Skills](https://skillicons.dev/icons?i=css,js,nodejs,figma,react,ts,jest,express,&theme=light)](https://skillicons.dev)>
 </div>
  
  <br>
