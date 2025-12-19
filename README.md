@@ -30,15 +30,35 @@ Feel free to explore my projects and share suggestions or ideas!
 
 <div>
   <a href="https://github.com/pvbit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvbit&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvbit&layout=compact&langs_count=6&theme=transparent"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pvbit&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvbit&layout=compact&langs_count=6&theme=transparent"/>
+  </a>
 </div>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <!-- Data & Analytics -->
+  <img align="center" alt="Python" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="SQL" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+  <img align="center" alt="Tableau" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg">
+
+  <!-- Web (apoio técnico) -->
+  <img align="center" alt="JavaScript" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+  <img align="center" alt="HTML5" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+  <img align="center" alt="CSS3" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 </div>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)  
+
  <br>
  
   ### Pra mais conteúdo me segue nas redes abaixo!
