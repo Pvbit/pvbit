@@ -1,4 +1,32 @@
-### Olá, eu sou o Paulo Vitor 👨🏻‍💻
+# Olá, eu sou o Paulo Vitor 👨🏻‍💻
+## Data Analyst | Business Intelligence 📊
+
+I’m a **Data Analyst in career consolidation**, driven by curiosity and continuous learning. I’m passionate about transforming raw data into **clear insights that support better decision-making**. My background combines **operational and financial analysis**, **KPI monitoring**, **process organization**, and **data-driven communication**.
+
+Currently, I work at **Veolia Serviços Ambientais**, where I support **technical and financial analyses**, service measurement reports, operational controls, and monthly closings. My day-to-day activities involve **organizing data**, **automating spreadsheets**, and **building reports and dashboards** to improve efficiency and support strategic decisions.
+
+I recently completed a **Data Analytics Bootcamp at TripleTen (2025)**, where I developed hands-on projects using **SQL, Python, Excel, and Tableau**, applying data cleaning, exploratory data analysis, and visualization techniques to real-world scenarios.
+
+Beyond data, I value **clear communication, collaboration, and business understanding**. I enjoy working with different teams, translating complex data into actionable insights, and continually improving my analytical and technical skills.
+
+My goal is to grow as a **Data Analyst**, deepen my expertise in analytics and business intelligence, and contribute to projects where data plays a key role in **optimizing processes and driving strategic decisions**.
+
+### 🛠️ My Skills
+- **Data Analysis:** SQL, Python, Data Cleaning, Exploratory Analysis
+- **Visualization & Reporting:** Tableau, Excel, Dashboards, KPIs
+- **Business & Operations:** Performance Indicators, Financial & Operational Analysis
+
+### 🚀 Featured Projects
+- **Taxi Company Analysis (SQL & Python):** https://github.com/Pvbit/taxicompany
+- **Sales Car Analysis (Business & Sales Analytics):** https://github.com/Pvbit/Sales-Car
+- **Pricing Calculator (React & Business Logic):** https://github.com/Pvbit/Calculadora-preco
+
+I’m always looking to learn new tools, improve my analytical thinking, and receive feedback to evolve as a data professional.
+Feel free to explore my projects and share suggestions or ideas!
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/paulo-v-89342413b/
+- Email: pvsantos01@gmail.com
 
 <div>
   <a href="https://github.com/pvbit">
